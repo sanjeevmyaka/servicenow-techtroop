@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-03 14:36:51</sys_created_on>
+        <sys_id>6ee051922fc95110cbcba1fef699b63c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_476397_techtroop_tech_class.x_476397_techtroop.tech_class_user</sys_name>
+        <sys_package display_value="TechTroop" source="x_476397_techtroop">e7dbbaa72fb01110cbcba1fef699b601</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TechTroop">e7dbbaa72fb01110cbcba1fef699b601</sys_scope>
+        <sys_security_acl display_value="x_476397_techtroop_tech_class">66e051922fc95110cbcba1fef699b63a</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_6ee051922fc95110cbcba1fef699b63c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-03 14:36:51</sys_updated_on>
+        <sys_user_role display_value="x_476397_techtroop.tech_class_user" name="x_476397_techtroop.tech_class_user">1ee0dd9a2f095110cbcba1fef699b6a7</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

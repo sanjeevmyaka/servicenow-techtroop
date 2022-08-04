@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>true</is_extendable>
+        <label>TechTroop Class</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_476397_techtroop_techtroop_class</name>
+        <number_ref display_value="TTCLS">d71051522fc95110cbcba1fef699b6cc</number_ref>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-03 14:33:16</sys_created_on>
+        <sys_id>4ddf4d122fc95110cbcba1fef699b65a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>TechTroop Class</sys_name>
+        <sys_package display_value="TechTroop" source="x_476397_techtroop">e7dbbaa72fb01110cbcba1fef699b601</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TechTroop">e7dbbaa72fb01110cbcba1fef699b601</sys_scope>
+        <sys_update_name>sys_db_object_4ddf4d122fc95110cbcba1fef699b65a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-03 14:33:21</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_476397_techtroop.techtroop_class_user" name="x_476397_techtroop.techtroop_class_user">8e10d1122fc95110cbcba1fef699b645</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="TechTroop">e7dbbaa72fb01110cbcba1fef699b601</application>
+        <file_path/>
+        <instance_id>d0745264db8d5b0c4f035d00cf961912</instance_id>
+        <instance_name>dev53459</instance_name>
+        <name>sys_db_object_4ddf4d122fc95110cbcba1fef699b65a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>true</is_extendable><label>TechTroop Class</label><live_feed_enabled>false</live_feed_enabled><name>x_476397_techtroop_techtroop_class</name><number_ref display_value="TTCLS">d71051522fc95110cbcba1fef699b6cc</number_ref><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class/><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>admin</sys_created_by><sys_created_on>2022-08-03 14:33:16</sys_created_on><sys_id>4ddf4d122fc95110cbcba1fef699b65a</sys_id><sys_mod_count>1</sys_mod_count><sys_name>TechTroop Class</sys_name><sys_package display_value="TechTroop" source="x_476397_techtroop">e7dbbaa72fb01110cbcba1fef699b601</sys_package><sys_policy/><sys_scope display_value="TechTroop">e7dbbaa72fb01110cbcba1fef699b601</sys_scope><sys_update_name>sys_db_object_4ddf4d122fc95110cbcba1fef699b65a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-08-03 14:33:21</sys_updated_on><update_access>false</update_access><user_role display_value="x_476397_techtroop.techtroop_class_user" name="x_476397_techtroop.techtroop_class_user">8e10d1122fc95110cbcba1fef699b645</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>1359767756</payload_hash>
+        <record_name>TechTroop Class</record_name>
+        <reverted_from/>
+        <source>ac0aa1402fc95110cbcba1fef699b6d6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-03 14:33:21</sys_created_on>
+        <sys_id>df1051522fc95110cbcba1fef699b6d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182642019da0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-03 14:33:21</sys_updated_on>
+        <type>Table</type>
+        <update_guid>97105152c4c95110995b08e7505e7ed1</update_guid>
+        <update_guid_history>97105152c4c95110995b08e7505e7ed1:1359767756,72105152e5c951109fdb8d2398f3b8be:-1876270819</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-03 14:34:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>116ae7ccff0e473c9b3347aba94df529</sys_id>
+        <sys_metadata>4ddf4d122fc95110cbcba1fef699b65a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TechTroop Class</sys_name>
+        <sys_package display_value="TechTroop" source="x_476397_techtroop">e7dbbaa72fb01110cbcba1fef699b601</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="TechTroop">e7dbbaa72fb01110cbcba1fef699b601</sys_scope>
+        <sys_scope_delete display_value="">1580856c78894fef850f051cad8f53d1</sys_scope_delete>
+        <sys_update_name>sys_db_object_4ddf4d122fc95110cbcba1fef699b65a</sys_update_name>
+        <sys_update_version display_value="sys_db_object_4ddf4d122fc95110cbcba1fef699b65a">df1051522fc95110cbcba1fef699b6d1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-03 14:34:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
