@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="exp" label="Experience" language="en" table="x_476397_techtroop_tech_user">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>exp</element>
+            <help/>
+            <hint/>
+            <label>Experience</label>
+            <language>en</language>
+            <name>x_476397_techtroop_tech_user</name>
+            <plural>Experiences</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-04 09:45:39</sys_created_on>
+            <sys_id>e2d791ee2fc11110cbcba1fef699b69c</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Experience</sys_name>
+            <sys_package display_value="TechTroop" source="x_476397_techtroop">e7dbbaa72fb01110cbcba1fef699b601</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TechTroop">e7dbbaa72fb01110cbcba1fef699b601</sys_scope>
+            <sys_update_name>sys_documentation_x_476397_techtroop_tech_user_exp_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-04 09:46:26</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

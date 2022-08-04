@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Tech Class" max_length="40" name="x_476397_techtroop_tech_class" type="collection">
+    <element extends="task" label="Tech Class" max_length="40" name="x_476397_techtroop_tech_class" sizeclass="1" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Course" mandatory="true" max_length="40" name="course" type="string">
+            <choice>
+                <element inactive_on_update="false" label="ServiceNow" sequence="0" value="servicenow"/>
+                <element inactive_on_update="false" label="DevOps" sequence="1" value="devops"/>
+                <element inactive_on_update="false" label="SalesForce" sequence="2" value="salesforce"/>
+                <element inactive_on_update="false" label="Jira" sequence="3" value="jira"/>
+            </choice>
+        </element>
         <element attributes="edge_encryption_enabled=true" label="Duration" max_length="40" name="duration" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="End Date" max_length="40" name="enddate" type="glide_date"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="List" max_length="1024" name="list" type="glide_list"/>
+        <element label="Seats" max_length="40" name="seats" type="integer"/>
         <element label="Administration" max_length="65536" name="snowadministration" type="html"/>
         <element label="Development" max_length="65536" name="snowdevelopment" type="html"/>
         <element attributes="edge_encryption_enabled=true" choice="3" default="new" label="Stage" max_length="40" name="stage" type="string">
